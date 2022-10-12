@@ -1,0 +1,35 @@
+# environment files
+.env
+
+# binaries
+*.out
+*.s
+*.exe
+*.so
+*.a
+*.lib
+
+# CMake
+CMakeFiles
+*.cmake
+CMakeCache.txt
+
+# python
+*.pyc
+.venv/
+__pycache__/
+
+# vscode
+/.history
+.vscode/
+
+# IntelliJ
+.idea/
+
+
+# additional
+*.diff
+*DS_STORE*
+build/
+bin/
+out/
