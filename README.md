@@ -19,6 +19,7 @@ Building Modelling using [Blender](https://www.blender.org/) and [Unity](https:/
 - [ ] Doors (Aryan)
 - [ ] Switch Board (Everything under it like charging points)
 - [ ] Fans (Ashish)
+- [ ] Ceiling Tiles (Classrooms and Labs) (Ashish)
 - [ ] Benches
 - [ ] Boards
 - [ ] Windows
