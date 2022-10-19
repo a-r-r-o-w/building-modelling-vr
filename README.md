@@ -28,7 +28,7 @@ Building Modelling using [Blender](https://www.blender.org/) and [Unity](https:/
 - [ ] Grills
 - [ ] Balcony
 - [x] TV (Ashish)
-  - [ ] (TV Interactive element)
+  - [ ] TV Interactive element
 - [ ] Projectors
 - [ ] Computers/Laptops
 - [ ] Cables
