@@ -6,6 +6,7 @@ Building Modelling using [Blender](https://www.blender.org/) and [Unity](https:/
 
 - [ ] Front door (Aryan, Dhruv)
 - [ ] Shops (Ananya, Nidhi)
+  - [x] Chips (Ashish)
 - [ ] Trees (Ananya)
 - [ ] Pigeons (Ashish)
 - [ ] Stairs (Aryan, Dhruv)
