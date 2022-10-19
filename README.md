@@ -18,14 +18,15 @@ Building Modelling using [Blender](https://www.blender.org/) and [Unity](https:/
 
 - [ ] Doors (Aryan)
 - [ ] Switch Board (Everything under it like charging points)
-- [ ] Fans (Ashish)
-- [ ] Ceiling Tiles (Classrooms and Labs) (Ashish)
+- [x] Fans (Ashish)
+- [x] Ceiling Tiles (Classrooms and Labs) (Ashish)
 - [ ] Benches
 - [ ] Boards
 - [ ] Windows
 - [ ] Grills
 - [ ] Balcony
-- [ ] TV (Interactive)
+- [x] TV (Ashish)
+  - [ ] (TV Interactive element)
 - [ ] Projectors
 - [ ] Computers/Laptops
 - [ ] Cables
