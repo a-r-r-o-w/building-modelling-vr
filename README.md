@@ -21,7 +21,7 @@ Building Modelling using [Blender](https://www.blender.org/) and [Unity](https:/
 - [ ] Doors (Aryan)
 - [ ] Switch Board (Everything under it like charging points)
 - [x] Fans (Ashish)
-- [ ] Floor Tiles
+- [x] Floor Tiles
   - [x] White Classroom Tiles (Ashish)
   - [x] Wood Classroom Tiles (Ashish)
   - [x] Black Granite Tiles (Ashish)
