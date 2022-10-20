@@ -18,6 +18,7 @@ Building Modelling using [Blender](https://www.blender.org/) and [Unity](https:/
 
 ### Common objects
 
+- [ ] Railings
 - [ ] Doors (Aryan)
 - [ ] Switch Board (Everything under it like charging points)
 - [x] Fans (Ashish)
