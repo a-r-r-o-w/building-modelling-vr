@@ -14,7 +14,7 @@ Building Modelling using [Blender](https://www.blender.org/) and [Unity](https:/
 - [ ] Glass wall (Dhruv)
 - [ ] Computer Lab (Game) (Ananya, Nidhi, Dhruv)
 - [ ] Quirky stuff (Everyone)
-- [ ] Ground Floor Railing (Ashish)
+- [x] Ground Floor Railing (Ashish)
 
 ### Common objects
 
