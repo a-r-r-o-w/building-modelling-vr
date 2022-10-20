@@ -4,15 +4,19 @@ Building Modelling using [Blender](https://www.blender.org/) and [Unity](https:/
 
 ### Unique to us
 
-- [ ] Front door (Aryan, Dhruv)
+- [ ] Front door (Dhruv)
 - [ ] Shops (Ananya, Nidhi)
   - [x] Chips (Ashish)
 - [ ] Trees (Ananya)
 - [ ] Pigeons (Ashish)
 - [ ] Stairs (Aryan, Dhruv)
-- [ ] Reception desk (put some interactive thing here) (Dhruv)
+- [ ] Reception desk (Dhruv)
+  - [x] Blender Model
+  - [ ] Interactive element
 - [ ] Glass wall (Dhruv)
-- [ ] Computer Lab (Game) (Ananya, Nidhi, Dhruv)
+- [ ] Computer Lab (Ananya, Nidhi, Keerthana)
+  - [x] Blender Model  
+  - [ ] Game
 - [ ] Quirky stuff (Everyone)
 - [x] Ground Floor Railing (Ashish)
 
@@ -33,10 +37,10 @@ Building Modelling using [Blender](https://www.blender.org/) and [Unity](https:/
 - [ ] Windows
 - [ ] Grills
 - [ ] Balcony
-- [x] TV (Ashish)
-  - [ ] TV Interactive element
+- [ ] TV (Ashish)
+  - [x] Blender Model
+  - [ ] Interactive element
 - [ ] Projectors
 - [ ] Computers/Laptops
 - [ ] Cables
 - [ ] Lights
-
