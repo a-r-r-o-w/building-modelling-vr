@@ -2,45 +2,79 @@
 
 Building Modelling using [Blender](https://www.blender.org/) and [Unity](https://unity.com/). This is a project for our university course on Fundamentals of Augmented and Virtual Reality (UE20CS315).
 
-### Unique to us
+### Images
 
-- [ ] Front door (Dhruv)
-- [ ] Shops (Ananya, Nidhi)
-  - [x] Chips (Ashish)
-- [ ] Trees (Ananya)
-- [ ] Pigeons (Ashish)
-- [ ] Stairs (Aryan, Dhruv)
-- [ ] Reception desk (Dhruv)
+**Classroom**
+
+![classroom.png](./res/images/classroom.png)
+
+**Instruction Room**
+
+![instruction_room.png](./res/images/instruction_room.png)
+
+**Seminar Hall**
+
+![seminar_hall_2.png](./res/images/seminar_hall.png)
+
+**Block Entrance**
+
+![entrance.png](./res/images/entrance.png)
+
+**Door**
+
+![door.png](./res/images/door.png)
+
+**Window**
+
+![window.png](./res/images/window.png)
+
+**Switchboard**
+
+![switchboard.png](./res/images/switchboard.png)
+
+**Stairs**
+
+![stairs.png](./res/images/stairs.png)
+
+### Objects
+
+**Unique**
+
+- [x] Front door
+- [x] Shops
+  - [x] Chips
+- [x] Trees
+- [ ] Pigeons
+- [x] Stairs
+- [x] Reception desk
   - [x] Blender Model
   - [ ] Interactive element
-- [ ] Glass wall (Dhruv)
-- [ ] Computer Lab (Ananya, Nidhi, Keerthana)
-  - [x] Blender Model  
+- [x] Glass wall
+- [ ] Computer Lab
+  - [x] Blender Model
   - [ ] Game
-- [ ] Quirky stuff (Everyone)
-- [x] Ground Floor Railing (Ashish)
 
-### Common objects
+**Common**
 
-- [ ] Railings
-- [ ] Doors (Aryan)
-- [ ] Switch Board (Everything under it like charging points)
-- [x] Fans (Ashish)
+- [x] Railings
+- [x] Doors
+- [x] Switch Board
+- [x] Fans
 - [x] Floor Tiles
-  - [x] White Classroom Tiles (Ashish)
-  - [x] Wood Classroom Tiles (Ashish)
-  - [x] Black Granite Tiles (Ashish)
-  - [x] Grey Granite Tiles (Ashish)
-- [x] Ceiling Tiles (Classrooms and Labs) (Ashish)
-- [ ] Benches
-- [ ] Boards
-- [ ] Windows
-- [ ] Grills
+  - [x] White Classroom Tiles
+  - [x] Wood Classroom Tiles
+  - [x] Black Granite Tiles
+  - [x] Grey Granite Tiles
+- [x] Ceiling Tiles
+- [x] Benches
+- [x] Boards
+- [x] Windows
+- [x] Grills
 - [ ] Balcony
-- [ ] TV (Ashish)
+- [x] TV
   - [x] Blender Model
   - [ ] Interactive element
 - [ ] Projectors
 - [ ] Computers/Laptops
 - [ ] Cables
-- [ ] Lights
+- [x] Lights
